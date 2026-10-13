@@ -1,0 +1,7 @@
+scenario,critere,K,Q,score
+original,ILVB,6,2,-789.7189714097957
+original,ICL_variationnel,6,2,-789.7189714097957
+original,ICL_approx,6,2,-1061.2823873881807
+permute_5pct,ILVB,6,2,-854.5875785813314
+permute_5pct,ICL_variationnel,6,2,-854.5875785813314
+permute_5pct,ICL_approx,6,2,-1126.1509945597165
