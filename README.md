@@ -1,153 +1,89 @@
-# Modèle à blocs stochastiques multicouches pour l'étude du devenir fonctionnel de gènes dupliqués chez Arabidopsis thaliana
+# Modèle à blocs stochastiques multicouches pour l'étude du devenir fonctionnel de gènes dupliqués chez ***Arabidopsis thaliana***
 
-L’objectif du projet est d’exploiter les différentes sources d’information à l’aide d’un modèle de clustering multivues basé sur un mélange de modèles de blocs stochastiques multicouches.
+Ce dossier rassemble des notebooks d’exploration et de clustering de paires de gènes, ainsi que des essais d’application du modèle mimiSBM à des matrices d’adjacence multicouches. Les analyses couvrent notamment les descripteurs Gene Expression, Pfam, PPI et éléments transposables (TE).
 
-**Etapes** :
-- **Réduction dimensionnelle** : Réduire l'espace de 30+ variables à une représentation 2D compréhensible via t-SNE
-- **Visualisation** : Générer des graphiques exploratoires montrant la séparation des classes dans l'espace réduit
-- **K-means** : Implémentation d'une méthode de clustering de manière à séparer en 2 classes chaque descripteur, permettant de trouver un seuil pour derrière récupérer une matrice d'ajdacence par descripteur défini par ce seuil.
-- **Matrice d'adjacence** : 
-- **Classification** : Analyser les paires de gènes selon leur statut de duplication (classe 0 : redondant fonctionnellement, classe 1 : divergent fonctionnellement)
+## Structure du dossier
 
-
-Le notebook t_SNE inclut :
-1. **Chargement & exploration** des données LAMME
-2. **Nettoyage & prétraitement** : imputation des valeurs manquantes, one-hot encoding des variables catégorielles
-3. **PCA pré-réduction** : réduire le bruit et les dimensions avant t-SNE (95% variance conservée)
-4. **t-SNE** : projection 2D avec analyse de sensibilité à la perplexité
-5. **Visualisation** : coloration par classe, environnement TE, et variables continues
-6. **Export** : sauvegarde des coordonnées t-SNE pour analyses ultérieures
-
-Le notebook kmeans inclut :
-1. **Chargement** des données nettoyées
-2. **Identification** des descripteurs numériques et booléens
-3. **K-Means** par descripteur et détection du seuil
-4. **Tableau sommaire** de l'ensemble des seuils et des informations du cluster
-5. **Visualisation** de la distribution et du cluster par descripteur
-7. **Exportation** des informations statistiques des clusters par descripteur sous forme de dataset
----
-
-## Structure du Projet
-
-```
-.
+```text
+mimiSBM/
 ├── README.md
-├── t_SNE.ipynb
-├── t_SNE_train_clean.png
-├── kmeans.ipynb
-│
-├── Données/
-│   ├── lamme_training.csv             # Dataset d'entraînement (paires de gènes)
-│   ├── lamme_prediction.csv           # Dataset de prédiction
-│   ├── X_train_clean.csv              # Features nettoyées (training)
-│   ├── X_pred_clean.csv               # Features nettoyées (prediction)
-│   ├── lamme_tsne_coords.csv          # Sortie : coordonnées t-SNE calculées
-│   └── dataset_samuel.csv             # Données complémentaires
-|
-├── Plots/
-|   ├── kmeans                         # Visualisation des figures récupérés par rapport au K-Means
-|       ├── cluster_correlation_heatmap.png
-|       ├── kmeans_gallery.png
-|       ├── silhouette_barplot.png
-|   ├── lamme_training/                 # Visualisation t-SNE sur le dataset lamme_training.csv
-|       ├── correlation_matrix.png
-|       ├── family_size_distribution.png
-|       ├── pca_variance_explained.png
-|       ├── tsne.png
-|   ├── train_clean                    # Visualisation t-SNE sur le dataset X_train_clean.csv
-|       ├── correlation_matrix.png
-|       ├── family_size_distribution.png
-|       ├── pca_variance_explaine.png
-|       ├── tsne_overlays.png
-|       ├── tsne.png
-└── .venv/                             # Environnement virtuel Python (ignoré dans un possible git)
+├── requirements.txt
+├── cleaning_variables.py
+├── LDA/                         # Sélection de descripteurs par LDA et K-means
+├── t_SNE/                       # Projections t-SNE globales et par famille
+├── implication_genes/           # Analyses des gènes et des paires
+├── mimisbm/                     # Pipelines et simulations mimiSBM
+└── Plots/                       # Figures, matrices d'adjacence et modèles exportés
+    ├── kmeans/
+    ├── lda/
+    ├── mimiSBM/
+    ├── t_SNE_family/
+    ├── t_SNE_global/
+    └── ...                      
 ```
 
----
+Le dossier `Plots/` contient également des figures à sa racine et des résultats sérialisés (`.npy`, `.pkl`, `.rds`). Les données d’entrée ne sont pas présentes dans l’arborescence actuelle de `mimiSBM` : plusieurs notebooks attendent des fichiers CSV et des matrices d’adjacence dans un dossier `Données/`. Les Données ne sont pas renseignées dans ce github car elles ne sont pas encore publiés et appartiennent à une publication scientifique (Ezoe et al. 2021) Pour compiler, il faut fournir ces fichiers et, selon le notebook, adapter les chemins relatifs ou absolus configurés dans ses cellules.
 
-## Installation & Configuration
+## Description des Variables
+### Features numériques utilisées
+*Interactions PPI* : PPI_Interactant_G1, PPI_Interactant_G2, PPI_Intersection, PPI_Union, PPI_Jaccard
+*Domaines Pfam* : Pfam_G1, Pfam_G2, Pfam_Inter, Pfam_Union, Pfam_Jaccard
+*Expression des gènes* : Ks, Ka, Ka/Ks, Distance
+*Élément Transposable* : TE_Coverage_Asymmetry, TE_Coverage_Mean, TE_Density_Asymmetry, TE_Density_Mean, TE_Number_Asymmetry, TE_Number_Mean
+### Variables de classification
+*Classification* : 0 (redondant fonctionnellement), 1 (divergent fonctionnellement)
 
-### Prérequis
-- **Python** 3.9+ (3.11 pour mon cas mais à voir plus tard)
-- **pip** ou **conda**
+## Préparation et dépendances
 
-### Étape 1 : Créer l'environnement virtuel
+`cleaning_variables.py` transforme des métriques par gène en variables de paire, traite les valeurs manquantes, encode les variables catégorielles et exporte les jeux nettoyés d’entraînement et de prédiction. Le script attend notamment les fichiers `Données/lamme_training.csv` et `Données/lamme_prediction.csv`.
+
+Les dépendances Python listées dans `requirements.txt` s’installent avec :
 
 ```bash
-# Créer un environnement virtuel
 python -m venv .venv
-
-# Activer l'environnement
-source .venv/bin/activate  # Linux/macOS
-# ou
-.venv\Scripts\activate     # Windows
-```
-
-### Étape 2 : Installer les dépendances
-
-```bash
+source .venv/bin/activate       # Linux/macOS
+# .venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 ```
 
-Ou installer manuellement :
+Pour lancer une analyse, ouvrir le notebook voulu dans Jupyter et exécuter ses cellules dans l’ordre. Vérifier d’abord que ses fichiers d’entrée existent et que les chemins définis dans les cellules correspondent à l’emplacement des données.
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter notebook
-```
+## Notebooks
 
----
+### LDA et K-means — `LDA/`
 
-## Utilisation
+- **`lda_kaks.ipynb`** — applique la LDA puis le K-means aux descripteurs de la famille expression des gènes (GE) et produit des résultats de clustering et des matrices d’adjacence.
+- **`lda_pfam.ipynb`** — même démarche pour les descripteurs Pfam.
+- **`lda_ppi.ipynb`** — même démarche pour les descripteurs d’interactions protéine-protéine (PPI).
+- **`lda_te.ipynb`** — même démarche pour les descripteurs liés aux éléments transposables (TE).
+- **`k_means_lda.ipynb`** — classe les descripteurs à l’aide de la LDA, applique K-means aux descripteurs retenus, compare plusieurs critères de qualité et étudie aussi les clusters dans un espace t-SNE.
 
-### Lancer l'analyse t-SNE
+- **`k_means_lda_silh.ipynb`** — sélectionne les descripteurs par LDA et utilise notamment le score de silhouette pour évaluer les clusters et construire les matrices d’adjacence.
+- **`k_means_lda_bic.ipynb`** — variante qui utilise le BIC pour évaluer le K-means par descripteur. Elle traite à part les valeurs nulles des descripteurs `_Asymmetry`.
+- **`k_means_lda_v2.ipynb`** — variante du pipeline LDA/K-means qui isole notamment un cluster de valeurs nulles pour les descripteurs `_Asymmetry`.
 
-1. **Activer l'environnement** :
-   ```bash
-   source .venv/bin/activate
-   ```
+### Réduction de dimension — `t_SNE/`
 
-2. **Lancer Jupyter** :
-   ```bash
-   jupyter notebook
-   ```
+- **`t_SNE.ipynb`** — explore le jeu d’entraînement, effectue une réduction par PCA puis une projection t-SNE et produit des visualisations.
+- **`t_SNE_family.ipynb`** — applique t-SNE aux variables organisées par familles de descripteurs et compare les projections avec et sans PCA.
+- **`t_SNE_global.ipynb`** — réalise une projection t-SNE globale des variables nettoyées, avec visualisations et analyse de sensibilité à la perplexité.
 
-3. **Ouvrir le notebook** `t_SNE.ipynb` et exécuter les cellules dans l'ordre :
-   - **Imports** : Charger toutes les librairies
-   - **Chargement dataset** : Lire `lamme_training.csv`
-   - **Preprocessing** : One-hot encoding, imputation, standardisation
-   - **PCA** : Réduction de 30+ variables à ~20 (95% variance)
-   - **t-SNE** : Projection 2D avec perplexité=30
-   - **Visualisation** : Graphiques de classification et environnement TE
-   - **Export** : Sauvegarder `lamme_tsne_coords.csv`
+### Analyses des gènes — `implication_genes/`
 
-### Résultats principaux générés
+- **`analyse_implication_genes.ipynb`** — étudie la fréquence d’apparition des gènes dans les paires, les éventuelles paires d’un même gène, les relations représentées en réseau et le lien entre cette fréquence et les clusters.
+- **`compter_paires_te_zero.ipynb`** — compte les paires pour lesquelles les deux gènes ont une valeur TE égale à zéro pour les métriques analysées.
 
-- `tsne_lamme.png` : Projection t-SNE colorée par classe et environnement TE
-- `tsne_lamme_perplexity.png` : Analyse de sensibilité à la perplexité
-- `lamme_tsne_coords.csv` : Données exportées avec coordonnées t-SNE
+### mimiSBM — `mimisbm/`
 
----
+- **`mimisbm_pipeline.ipynb`** — charge des matrices d’adjacence regroupées par familles de descripteurs, les assemble en tenseur multicouche et ajuste le modèle mimiSBM.
+- **`mimisbm_pipeline_descriptors.ipynb`** — variante du pipeline où chaque couche du tenseur correspond à un descripteur individuel plutôt qu’à une famille.
+- **`mimisbm_pipeline_bic_descriptors.ipynb`** — applique le pipeline par descripteur aux matrices d’adjacence associées au critère BIC.
+- **`mimisbm_pipeline_criteria.ipynb`** — compare, sur une grille de paramètres, l’ELBO/ILvb, l’ICL variationnel et un ICL approché avec pénalité de type BIC.
+- **`mimisbm_pipeline_generic.ipynb`** — version configurable du pipeline : chargement des matrices par un dictionnaire, recherche sur les paramètres, test de stabilité des partitions et vérification sur des données simulées.
+- **`mimisbm_kaks.ipynb`** — ajuste mimiSBM à des matrices d’adjacence de la famille Ka/Ks et examine les résultats du modèle.
+- **`mimisbm_gene_expression.ipynb`** — notebook d’application de mimiSBM à un jeu de matrices d’adjacence de descripteurs, avec construction du tenseur et estimation du modèle.
+- **`mimisbm_simulation_package_python.ipynb`** — génère des réseaux multicouches selon une structure connue, ajuste la classe Python mimiSBM et compare les partitions estimées aux partitions simulées.
+- **`mimisbm_simulation_r_vs_python.ipynb`** — porte en Python des simulations décrites côté R, puis compare le comportement de mimiSBM sur les réseaux simulés, avec et sans perturbation des labels.
+- **`recouvrement_kaks.ipynb`** — calcule le recouvrement des clusters Ka et Ks, puis teste la robustesse du modèle **mimiSBM** à la permutation d’une partie des labels.
 
-## Description des Variables
 
-### Features numériques utilisées
-- **Interactions PPI** : `PPI_Interactant_G1`, `PPI_Interactant_G2`, `PPI_Intersection`, `PPI_Union`, `PPI_Jaccard`
-- **Domaines Pfam** : `Pfam_G1`, `Pfam_G2`, `Pfam_Inter`, `Pfam_Union`, `Pfam_Jaccard`
-- **Divergence** : `Ks`, `Ka`, `Ka_Ks`, `Ks_SD`, `Ka_SD`, `Distance`
-- **Élément Transposable** : `TE_Coverage_G1/G2`, `TE_Density_G1/G2`, `TE_Number_G1/G2`
-- **Taille familiale** : `Family_Size`
-
-### Features catégorielles utilisées
-- **Elément transposable** : `TE_Env_G1`, `TE_Env_G2`, `TE_Env_Pair`
-
-### Variables de classification
-- **Classification** : 0 (redondant fonctionnellement), 1 (divergent fonctionnellement)
-- **TE_Env_Class** : `free`, `half`, `rich` (densité d'éléments transposables)
-
----
-
-## Auteur
-
-Thomas Hucorne - Etudiant M2DS & ensIIE (Promo 2026)
-
----
