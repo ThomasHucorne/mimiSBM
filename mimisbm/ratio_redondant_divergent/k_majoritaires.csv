@@ -1,0 +1,19 @@
+jeu,cas,critere,K_majoritaire,Q_associe,freq_K,n_simulations,ex_aequo,K_vrai,Q_vrai
+Familles,K fixé,ILVB,10,4,50,50,False,10,3
+Familles,K fixé,ICL_variationnel,10,4,50,50,False,10,3
+Familles,K fixé,ICL_approx,10,2,50,50,False,10,3
+Familles,Q fixé,ILVB,10,3,23,50,False,10,3
+Familles,Q fixé,ICL_variationnel,10,3,23,50,False,10,3
+Familles,Q fixé,ICL_approx,10,3,23,50,False,10,3
+Familles,Sélection conjointe,ILVB,10,4,33,50,False,10,3
+Familles,Sélection conjointe,ICL_variationnel,10,4,33,50,False,10,3
+Familles,Sélection conjointe,ICL_approx,10,2,31,50,False,10,3
+Ka et Ks,K fixé,ILVB,6,2,50,50,False,6,2
+Ka et Ks,K fixé,ICL_variationnel,6,2,50,50,False,6,2
+Ka et Ks,K fixé,ICL_approx,6,2,50,50,False,6,2
+Ka et Ks,Q fixé,ILVB,6,2,28,50,False,6,2
+Ka et Ks,Q fixé,ICL_variationnel,6,2,28,50,False,6,2
+Ka et Ks,Q fixé,ICL_approx,6,2,28,50,False,6,2
+Ka et Ks,Sélection conjointe,ILVB,6,2,50,50,False,6,2
+Ka et Ks,Sélection conjointe,ICL_variationnel,6,2,50,50,False,6,2
+Ka et Ks,Sélection conjointe,ICL_approx,6,2,30,50,False,6,2

@@ -1,0 +1,451 @@
+jeu,simulation,strategie,critere,K_selectionne,Q_selectionne,K_vrai,Q_vrai
+Familles,1,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,1,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,1,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,1,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,1,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,1,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,1,K et Q optimisés,ILVB,15,5,10,3
+Familles,1,K et Q optimisés,ICL_variationnel,15,5,10,3
+Familles,1,K et Q optimisés,ICL_approx,15,5,10,3
+Familles,2,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,2,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,2,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,2,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,2,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,2,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,2,K et Q optimisés,ILVB,15,4,10,3
+Familles,2,K et Q optimisés,ICL_variationnel,15,4,10,3
+Familles,2,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,3,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,3,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,3,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,3,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,3,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,3,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,3,K et Q optimisés,ILVB,15,4,10,3
+Familles,3,K et Q optimisés,ICL_variationnel,15,4,10,3
+Familles,3,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,4,"K fixé, sélection de Q",ILVB,10,8,10,3
+Familles,4,"K fixé, sélection de Q",ICL_variationnel,10,8,10,3
+Familles,4,"K fixé, sélection de Q",ICL_approx,10,8,10,3
+Familles,4,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,4,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,4,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,4,K et Q optimisés,ILVB,15,4,10,3
+Familles,4,K et Q optimisés,ICL_variationnel,15,4,10,3
+Familles,4,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,5,"K fixé, sélection de Q",ILVB,10,7,10,3
+Familles,5,"K fixé, sélection de Q",ICL_variationnel,10,7,10,3
+Familles,5,"K fixé, sélection de Q",ICL_approx,10,7,10,3
+Familles,5,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,5,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,5,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,5,K et Q optimisés,ILVB,14,8,10,3
+Familles,5,K et Q optimisés,ICL_variationnel,14,8,10,3
+Familles,5,K et Q optimisés,ICL_approx,15,5,10,3
+Familles,6,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,6,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,6,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,6,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,6,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,6,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,6,K et Q optimisés,ILVB,14,7,10,3
+Familles,6,K et Q optimisés,ICL_variationnel,14,7,10,3
+Familles,6,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,7,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,7,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,7,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,7,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,7,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,7,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,7,K et Q optimisés,ILVB,14,6,10,3
+Familles,7,K et Q optimisés,ICL_variationnel,14,6,10,3
+Familles,7,K et Q optimisés,ICL_approx,14,6,10,3
+Familles,8,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,8,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,8,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,8,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,8,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,8,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,8,K et Q optimisés,ILVB,14,5,10,3
+Familles,8,K et Q optimisés,ICL_variationnel,14,5,10,3
+Familles,8,K et Q optimisés,ICL_approx,14,5,10,3
+Familles,9,"K fixé, sélection de Q",ILVB,10,7,10,3
+Familles,9,"K fixé, sélection de Q",ICL_variationnel,10,7,10,3
+Familles,9,"K fixé, sélection de Q",ICL_approx,10,7,10,3
+Familles,9,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,9,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,9,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,9,K et Q optimisés,ILVB,14,4,10,3
+Familles,9,K et Q optimisés,ICL_variationnel,14,4,10,3
+Familles,9,K et Q optimisés,ICL_approx,14,4,10,3
+Familles,10,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,10,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,10,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,10,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,10,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,10,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,10,K et Q optimisés,ILVB,14,6,10,3
+Familles,10,K et Q optimisés,ICL_variationnel,14,6,10,3
+Familles,10,K et Q optimisés,ICL_approx,14,6,10,3
+Familles,11,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,11,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,11,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,11,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,11,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,11,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,11,K et Q optimisés,ILVB,14,5,10,3
+Familles,11,K et Q optimisés,ICL_variationnel,14,5,10,3
+Familles,11,K et Q optimisés,ICL_approx,14,5,10,3
+Familles,12,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,12,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,12,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,12,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,12,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,12,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,12,K et Q optimisés,ILVB,14,4,10,3
+Familles,12,K et Q optimisés,ICL_variationnel,14,4,10,3
+Familles,12,K et Q optimisés,ICL_approx,14,4,10,3
+Familles,13,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,13,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,13,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,13,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,13,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,13,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,13,K et Q optimisés,ILVB,14,5,10,3
+Familles,13,K et Q optimisés,ICL_variationnel,14,5,10,3
+Familles,13,K et Q optimisés,ICL_approx,14,5,10,3
+Familles,14,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,14,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,14,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,14,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,14,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,14,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,14,K et Q optimisés,ILVB,15,10,10,3
+Familles,14,K et Q optimisés,ICL_variationnel,15,10,10,3
+Familles,14,K et Q optimisés,ICL_approx,14,4,10,3
+Familles,15,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,15,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,15,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,15,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,15,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,15,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,15,K et Q optimisés,ILVB,15,9,10,3
+Familles,15,K et Q optimisés,ICL_variationnel,15,9,10,3
+Familles,15,K et Q optimisés,ICL_approx,15,5,10,3
+Familles,16,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,16,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,16,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,16,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,16,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,16,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,16,K et Q optimisés,ILVB,15,8,10,3
+Familles,16,K et Q optimisés,ICL_variationnel,15,8,10,3
+Familles,16,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,17,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,17,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,17,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,17,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,17,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,17,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,17,K et Q optimisés,ILVB,15,7,10,3
+Familles,17,K et Q optimisés,ICL_variationnel,15,7,10,3
+Familles,17,K et Q optimisés,ICL_approx,15,7,10,3
+Familles,18,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,18,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,18,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,18,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,18,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,18,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,18,K et Q optimisés,ILVB,15,6,10,3
+Familles,18,K et Q optimisés,ICL_variationnel,15,6,10,3
+Familles,18,K et Q optimisés,ICL_approx,15,6,10,3
+Familles,19,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,19,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,19,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,19,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,19,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,19,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,19,K et Q optimisés,ILVB,15,5,10,3
+Familles,19,K et Q optimisés,ICL_variationnel,15,5,10,3
+Familles,19,K et Q optimisés,ICL_approx,15,5,10,3
+Familles,20,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,20,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,20,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,20,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,20,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,20,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,20,K et Q optimisés,ILVB,15,10,10,3
+Familles,20,K et Q optimisés,ICL_variationnel,15,10,10,3
+Familles,20,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,21,"K fixé, sélection de Q",ILVB,10,4,10,3
+Familles,21,"K fixé, sélection de Q",ICL_variationnel,10,4,10,3
+Familles,21,"K fixé, sélection de Q",ICL_approx,10,4,10,3
+Familles,21,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,21,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,21,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,21,K et Q optimisés,ILVB,15,9,10,3
+Familles,21,K et Q optimisés,ICL_variationnel,15,9,10,3
+Familles,21,K et Q optimisés,ICL_approx,15,5,10,3
+Familles,22,"K fixé, sélection de Q",ILVB,10,8,10,3
+Familles,22,"K fixé, sélection de Q",ICL_variationnel,10,8,10,3
+Familles,22,"K fixé, sélection de Q",ICL_approx,10,8,10,3
+Familles,22,"Q fixé, sélection de K",ILVB,14,3,10,3
+Familles,22,"Q fixé, sélection de K",ICL_variationnel,14,3,10,3
+Familles,22,"Q fixé, sélection de K",ICL_approx,14,3,10,3
+Familles,22,K et Q optimisés,ILVB,15,8,10,3
+Familles,22,K et Q optimisés,ICL_variationnel,15,8,10,3
+Familles,22,K et Q optimisés,ICL_approx,15,4,10,3
+Familles,23,"K fixé, sélection de Q",ILVB,10,7,10,3
+Familles,23,"K fixé, sélection de Q",ICL_variationnel,10,7,10,3
+Familles,23,"K fixé, sélection de Q",ICL_approx,10,7,10,3
+Familles,23,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,23,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,23,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,23,K et Q optimisés,ILVB,15,7,10,3
+Familles,23,K et Q optimisés,ICL_variationnel,15,7,10,3
+Familles,23,K et Q optimisés,ICL_approx,15,7,10,3
+Familles,24,"K fixé, sélection de Q",ILVB,10,6,10,3
+Familles,24,"K fixé, sélection de Q",ICL_variationnel,10,6,10,3
+Familles,24,"K fixé, sélection de Q",ICL_approx,10,6,10,3
+Familles,24,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,24,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,24,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,24,K et Q optimisés,ILVB,15,6,10,3
+Familles,24,K et Q optimisés,ICL_variationnel,15,6,10,3
+Familles,24,K et Q optimisés,ICL_approx,15,6,10,3
+Familles,25,"K fixé, sélection de Q",ILVB,10,5,10,3
+Familles,25,"K fixé, sélection de Q",ICL_variationnel,10,5,10,3
+Familles,25,"K fixé, sélection de Q",ICL_approx,10,5,10,3
+Familles,25,"Q fixé, sélection de K",ILVB,15,3,10,3
+Familles,25,"Q fixé, sélection de K",ICL_variationnel,15,3,10,3
+Familles,25,"Q fixé, sélection de K",ICL_approx,15,3,10,3
+Familles,25,K et Q optimisés,ILVB,15,5,10,3
+Familles,25,K et Q optimisés,ICL_variationnel,15,5,10,3
+Familles,25,K et Q optimisés,ICL_approx,15,5,10,3
+Ka et Ks,1,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,1,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,1,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,1,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,1,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,1,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,1,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,1,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,1,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,2,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,2,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,2,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,2,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,2,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,2,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,2,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,2,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,2,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,3,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,3,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,3,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,3,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,3,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,3,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,3,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,3,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,3,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,4,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,4,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,4,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,4,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,4,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,4,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,4,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,4,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,4,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,5,"K fixé, sélection de Q",ILVB,6,4,6,2
+Ka et Ks,5,"K fixé, sélection de Q",ICL_variationnel,6,4,6,2
+Ka et Ks,5,"K fixé, sélection de Q",ICL_approx,6,4,6,2
+Ka et Ks,5,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,5,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,5,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,5,K et Q optimisés,ILVB,6,4,6,2
+Ka et Ks,5,K et Q optimisés,ICL_variationnel,6,4,6,2
+Ka et Ks,5,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,6,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,6,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,6,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,6,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,6,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,6,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,6,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,6,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,6,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,7,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,7,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,7,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,7,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,7,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,7,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,7,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,7,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,7,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,8,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,8,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,8,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,8,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,8,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,8,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,8,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,8,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,8,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,9,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,9,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,9,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,9,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,9,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,9,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,9,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,9,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,9,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,10,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,10,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,10,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,10,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,10,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,10,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,10,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,10,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,10,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,11,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,11,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,11,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,11,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,11,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,11,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,11,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,11,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,11,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,12,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,12,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,12,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,12,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,12,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,12,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,12,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,12,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,12,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,13,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,13,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,13,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,13,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,13,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,13,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,13,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,13,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,13,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,14,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,14,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,14,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,14,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,14,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,14,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,14,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,14,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,14,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,15,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,15,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,15,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,15,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,15,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,15,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,15,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,15,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,15,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,16,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,16,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,16,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,16,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,16,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,16,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,16,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,16,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,16,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,17,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,17,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,17,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,17,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,17,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,17,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,17,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,17,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,17,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,18,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,18,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,18,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,18,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,18,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,18,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,18,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,18,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,18,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,19,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,19,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,19,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,19,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,19,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,19,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,19,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,19,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,19,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,20,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,20,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,20,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,20,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,20,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,20,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,20,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,20,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,20,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,21,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,21,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,21,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,21,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,21,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,21,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,21,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,21,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,21,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,22,"K fixé, sélection de Q",ILVB,6,3,6,2
+Ka et Ks,22,"K fixé, sélection de Q",ICL_variationnel,6,3,6,2
+Ka et Ks,22,"K fixé, sélection de Q",ICL_approx,6,3,6,2
+Ka et Ks,22,"Q fixé, sélection de K",ILVB,7,2,6,2
+Ka et Ks,22,"Q fixé, sélection de K",ICL_variationnel,7,2,6,2
+Ka et Ks,22,"Q fixé, sélection de K",ICL_approx,7,2,6,2
+Ka et Ks,22,K et Q optimisés,ILVB,6,3,6,2
+Ka et Ks,22,K et Q optimisés,ICL_variationnel,6,3,6,2
+Ka et Ks,22,K et Q optimisés,ICL_approx,7,2,6,2
+Ka et Ks,23,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,23,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,23,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,23,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,23,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,23,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,23,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,23,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,23,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,24,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,24,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,24,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,24,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,24,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,24,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,24,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,24,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,24,K et Q optimisés,ICL_approx,6,2,6,2
+Ka et Ks,25,"K fixé, sélection de Q",ILVB,6,2,6,2
+Ka et Ks,25,"K fixé, sélection de Q",ICL_variationnel,6,2,6,2
+Ka et Ks,25,"K fixé, sélection de Q",ICL_approx,6,2,6,2
+Ka et Ks,25,"Q fixé, sélection de K",ILVB,6,2,6,2
+Ka et Ks,25,"Q fixé, sélection de K",ICL_variationnel,6,2,6,2
+Ka et Ks,25,"Q fixé, sélection de K",ICL_approx,6,2,6,2
+Ka et Ks,25,K et Q optimisés,ILVB,6,2,6,2
+Ka et Ks,25,K et Q optimisés,ICL_variationnel,6,2,6,2
+Ka et Ks,25,K et Q optimisés,ICL_approx,6,2,6,2

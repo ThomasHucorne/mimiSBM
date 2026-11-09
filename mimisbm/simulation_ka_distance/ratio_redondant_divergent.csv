@@ -1,0 +1,6 @@
+K_final,cluster_ka,cluster_dist,n,n_redondant,n_divergent,ratio_red_div,part_redondant
+1,1,1,60,24,36,0.667,0.4
+2,1,2,246,145,101,1.436,0.589
+3,2,1,47,2,45,0.044,0.043
+4,2,2,91,11,80,0.138,0.121
+global,,,444,182,262,0.695,0.41

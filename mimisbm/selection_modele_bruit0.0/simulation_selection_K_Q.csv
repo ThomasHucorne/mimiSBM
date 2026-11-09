@@ -1,0 +1,901 @@
+jeu,simulation,strategie,critere,K_selectionne,Q_selectionne,K_vrai,Q_vrai,K_ok,Q_ok,couple_ok
+Familles,1,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,1,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,1,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,1,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,1,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,1,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,1,Sélection conjointe,ILVB,15,7,10,3,False,False,False
+Familles,1,Sélection conjointe,ICL_variationnel,15,7,10,3,False,False,False
+Familles,1,Sélection conjointe,ICL_approx,15,7,10,3,False,False,False
+Familles,2,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,2,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,2,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,2,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,2,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,2,Q avec K vrai,ICL_approx,10,8,10,3,True,False,False
+Familles,2,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,2,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,2,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,3,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,3,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,3,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,3,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,3,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,3,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,3,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,3,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,3,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,4,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,4,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,4,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,4,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,4,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,4,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,4,Sélection conjointe,ILVB,15,7,10,3,False,False,False
+Familles,4,Sélection conjointe,ICL_variationnel,15,7,10,3,False,False,False
+Familles,4,Sélection conjointe,ICL_approx,15,7,10,3,False,False,False
+Familles,5,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,5,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,5,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,5,Q avec K vrai,ILVB,10,10,10,3,True,False,False
+Familles,5,Q avec K vrai,ICL_variationnel,10,10,10,3,True,False,False
+Familles,5,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,5,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,5,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,5,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,6,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,6,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,6,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,6,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,6,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,6,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,6,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,6,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,6,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,7,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,7,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,7,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,7,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,7,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,7,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,7,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,7,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,7,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,8,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,8,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,8,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,8,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,8,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,8,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,8,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,8,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,8,Sélection conjointe,ICL_approx,15,8,10,3,False,False,False
+Familles,9,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,9,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,9,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,9,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,9,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,9,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,9,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,9,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,9,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,10,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,10,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,10,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,10,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,10,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,10,Q avec K vrai,ICL_approx,10,9,10,3,True,False,False
+Familles,10,Sélection conjointe,ILVB,15,10,10,3,False,False,False
+Familles,10,Sélection conjointe,ICL_variationnel,15,10,10,3,False,False,False
+Familles,10,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,11,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,11,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,11,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,11,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,11,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,11,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,11,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,11,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,11,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,12,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,12,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,12,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,12,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,12,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,12,Q avec K vrai,ICL_approx,10,8,10,3,True,False,False
+Familles,12,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,12,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,12,Sélection conjointe,ICL_approx,15,9,10,3,False,False,False
+Familles,13,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,13,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,13,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,13,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,13,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,13,Q avec K vrai,ICL_approx,10,9,10,3,True,False,False
+Familles,13,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,13,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,13,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,14,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,14,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,14,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,14,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,14,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,14,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,14,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,14,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,14,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,15,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,15,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,15,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,15,Q avec K vrai,ILVB,10,10,10,3,True,False,False
+Familles,15,Q avec K vrai,ICL_variationnel,10,10,10,3,True,False,False
+Familles,15,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,15,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,15,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,15,Sélection conjointe,ICL_approx,15,7,10,3,False,False,False
+Familles,16,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,16,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,16,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,16,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,16,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,16,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,16,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,16,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,16,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,17,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,17,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,17,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,17,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,17,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,17,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,17,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,17,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,17,Sélection conjointe,ICL_approx,15,8,10,3,False,False,False
+Familles,18,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,18,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,18,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,18,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,18,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,18,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,18,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,18,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,18,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,19,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,19,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,19,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,19,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,19,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,19,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,19,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,19,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,19,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,20,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,20,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,20,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,20,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,20,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,20,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,20,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,20,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,20,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,21,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,21,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,21,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,21,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,21,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,21,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,21,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,21,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,21,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,22,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,22,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,22,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,22,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,22,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,22,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,22,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,22,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,22,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,23,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,23,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,23,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,23,Q avec K vrai,ILVB,10,10,10,3,True,False,False
+Familles,23,Q avec K vrai,ICL_variationnel,10,10,10,3,True,False,False
+Familles,23,Q avec K vrai,ICL_approx,10,10,10,3,True,False,False
+Familles,23,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,23,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,23,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,24,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,24,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,24,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,24,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,24,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,24,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,24,Sélection conjointe,ILVB,15,10,10,3,False,False,False
+Familles,24,Sélection conjointe,ICL_variationnel,15,10,10,3,False,False,False
+Familles,24,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,25,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,25,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,25,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,25,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,25,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,25,Q avec K vrai,ICL_approx,10,9,10,3,True,False,False
+Familles,25,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,25,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,25,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,26,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,26,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,26,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,26,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,26,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,26,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,26,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,26,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,26,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,27,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,27,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,27,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,27,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,27,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,27,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,27,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,27,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,27,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,28,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,28,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,28,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,28,Q avec K vrai,ILVB,10,10,10,3,True,False,False
+Familles,28,Q avec K vrai,ICL_variationnel,10,10,10,3,True,False,False
+Familles,28,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,28,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,28,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,28,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,29,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,29,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,29,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,29,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,29,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,29,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,29,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,29,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,29,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,30,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,30,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,30,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,30,Q avec K vrai,ILVB,10,10,10,3,True,False,False
+Familles,30,Q avec K vrai,ICL_variationnel,10,10,10,3,True,False,False
+Familles,30,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,30,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,30,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,30,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,31,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,31,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,31,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,31,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,31,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,31,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,31,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,31,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,31,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,32,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,32,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,32,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,32,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,32,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,32,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,32,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,32,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,32,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,33,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,33,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,33,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,33,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,33,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,33,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,33,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,33,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,33,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,34,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,34,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,34,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,34,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,34,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,34,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,34,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,34,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,34,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,35,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,35,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,35,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,35,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,35,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,35,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,35,Sélection conjointe,ILVB,15,10,10,3,False,False,False
+Familles,35,Sélection conjointe,ICL_variationnel,15,10,10,3,False,False,False
+Familles,35,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,36,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,36,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,36,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,36,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,36,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,36,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,36,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,36,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,36,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,37,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,37,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,37,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,37,Q avec K vrai,ILVB,10,6,10,3,True,False,False
+Familles,37,Q avec K vrai,ICL_variationnel,10,6,10,3,True,False,False
+Familles,37,Q avec K vrai,ICL_approx,10,6,10,3,True,False,False
+Familles,37,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,37,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,37,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,38,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,38,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,38,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,38,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,38,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,38,Q avec K vrai,ICL_approx,10,8,10,3,True,False,False
+Familles,38,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,38,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,38,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,39,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,39,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,39,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,39,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,39,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,39,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,39,Sélection conjointe,ILVB,15,7,10,3,False,False,False
+Familles,39,Sélection conjointe,ICL_variationnel,15,7,10,3,False,False,False
+Familles,39,Sélection conjointe,ICL_approx,15,7,10,3,False,False,False
+Familles,40,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,40,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,40,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,40,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,40,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,40,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,40,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,40,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,40,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,41,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,41,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,41,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,41,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,41,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,41,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,41,Sélection conjointe,ILVB,15,10,10,3,False,False,False
+Familles,41,Sélection conjointe,ICL_variationnel,15,10,10,3,False,False,False
+Familles,41,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,42,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,42,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,42,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,42,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,42,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,42,Q avec K vrai,ICL_approx,10,8,10,3,True,False,False
+Familles,42,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,42,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,42,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,43,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,43,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,43,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,43,Q avec K vrai,ILVB,10,8,10,3,True,False,False
+Familles,43,Q avec K vrai,ICL_variationnel,10,8,10,3,True,False,False
+Familles,43,Q avec K vrai,ICL_approx,10,8,10,3,True,False,False
+Familles,43,Sélection conjointe,ILVB,15,5,10,3,False,False,False
+Familles,43,Sélection conjointe,ICL_variationnel,15,5,10,3,False,False,False
+Familles,43,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,44,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,44,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,44,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,44,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,44,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,44,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,44,Sélection conjointe,ILVB,15,7,10,3,False,False,False
+Familles,44,Sélection conjointe,ICL_variationnel,15,7,10,3,False,False,False
+Familles,44,Sélection conjointe,ICL_approx,15,7,10,3,False,False,False
+Familles,45,K avec Q vrai,ILVB,14,3,10,3,False,True,False
+Familles,45,K avec Q vrai,ICL_variationnel,14,3,10,3,False,True,False
+Familles,45,K avec Q vrai,ICL_approx,14,3,10,3,False,True,False
+Familles,45,Q avec K vrai,ILVB,10,7,10,3,True,False,False
+Familles,45,Q avec K vrai,ICL_variationnel,10,7,10,3,True,False,False
+Familles,45,Q avec K vrai,ICL_approx,10,7,10,3,True,False,False
+Familles,45,Sélection conjointe,ILVB,15,4,10,3,False,False,False
+Familles,45,Sélection conjointe,ICL_variationnel,15,4,10,3,False,False,False
+Familles,45,Sélection conjointe,ICL_approx,15,4,10,3,False,False,False
+Familles,46,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,46,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,46,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,46,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,46,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,46,Q avec K vrai,ICL_approx,10,9,10,3,True,False,False
+Familles,46,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,46,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,46,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,47,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,47,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,47,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,47,Q avec K vrai,ILVB,10,5,10,3,True,False,False
+Familles,47,Q avec K vrai,ICL_variationnel,10,5,10,3,True,False,False
+Familles,47,Q avec K vrai,ICL_approx,10,5,10,3,True,False,False
+Familles,47,Sélection conjointe,ILVB,15,8,10,3,False,False,False
+Familles,47,Sélection conjointe,ICL_variationnel,15,8,10,3,False,False,False
+Familles,47,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Familles,48,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,48,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,48,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,48,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,48,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,48,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,48,Sélection conjointe,ILVB,15,6,10,3,False,False,False
+Familles,48,Sélection conjointe,ICL_variationnel,15,6,10,3,False,False,False
+Familles,48,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,49,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,49,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,49,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,49,Q avec K vrai,ILVB,10,9,10,3,True,False,False
+Familles,49,Q avec K vrai,ICL_variationnel,10,9,10,3,True,False,False
+Familles,49,Q avec K vrai,ICL_approx,10,9,10,3,True,False,False
+Familles,49,Sélection conjointe,ILVB,15,9,10,3,False,False,False
+Familles,49,Sélection conjointe,ICL_variationnel,15,9,10,3,False,False,False
+Familles,49,Sélection conjointe,ICL_approx,15,6,10,3,False,False,False
+Familles,50,K avec Q vrai,ILVB,15,3,10,3,False,True,False
+Familles,50,K avec Q vrai,ICL_variationnel,15,3,10,3,False,True,False
+Familles,50,K avec Q vrai,ICL_approx,15,3,10,3,False,True,False
+Familles,50,Q avec K vrai,ILVB,10,4,10,3,True,False,False
+Familles,50,Q avec K vrai,ICL_variationnel,10,4,10,3,True,False,False
+Familles,50,Q avec K vrai,ICL_approx,10,4,10,3,True,False,False
+Familles,50,Sélection conjointe,ILVB,15,7,10,3,False,False,False
+Familles,50,Sélection conjointe,ICL_variationnel,15,7,10,3,False,False,False
+Familles,50,Sélection conjointe,ICL_approx,15,5,10,3,False,False,False
+Ka et Ks,1,K avec Q vrai,ILVB,7,2,6,2,False,True,False
+Ka et Ks,1,K avec Q vrai,ICL_variationnel,7,2,6,2,False,True,False
+Ka et Ks,1,K avec Q vrai,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,1,Q avec K vrai,ILVB,6,3,6,2,True,False,False
+Ka et Ks,1,Q avec K vrai,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,1,Q avec K vrai,ICL_approx,6,3,6,2,True,False,False
+Ka et Ks,1,Sélection conjointe,ILVB,6,3,6,2,True,False,False
+Ka et Ks,1,Sélection conjointe,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,1,Sélection conjointe,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,2,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,2,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,2,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,2,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,2,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,2,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,2,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,2,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,2,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,3,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,3,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,3,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,3,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,3,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,3,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,3,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,3,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,3,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,4,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,4,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,4,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,4,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,4,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,4,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,4,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,4,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,4,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,5,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,5,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,5,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,5,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,5,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,5,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,5,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,5,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,5,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,6,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,6,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,6,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,6,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,6,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,6,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,6,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,6,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,6,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,7,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,7,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,7,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,7,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,7,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,7,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,7,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,7,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,7,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,8,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,8,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,8,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,8,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,8,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,8,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,8,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,8,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,8,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,9,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,9,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,9,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,9,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,9,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,9,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,9,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,9,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,9,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,10,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,10,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,10,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,10,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,10,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,10,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,10,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,10,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,10,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,11,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,11,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,11,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,11,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,11,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,11,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,11,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,11,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,11,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,12,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,12,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,12,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,12,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,12,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,12,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,12,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,12,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,12,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,13,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,13,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,13,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,13,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,13,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,13,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,13,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,13,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,13,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,14,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,14,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,14,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,14,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,14,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,14,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,14,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,14,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,14,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,15,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,15,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,15,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,15,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,15,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,15,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,15,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,15,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,15,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,16,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,16,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,16,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,16,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,16,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,16,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,16,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,16,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,16,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,17,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,17,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,17,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,17,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,17,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,17,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,17,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,17,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,17,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,18,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,18,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,18,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,18,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,18,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,18,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,18,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,18,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,18,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,19,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,19,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,19,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,19,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,19,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,19,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,19,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,19,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,19,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,20,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,20,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,20,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,20,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,20,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,20,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,20,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,20,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,20,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,21,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,21,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,21,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,21,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,21,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,21,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,21,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,21,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,21,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,22,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,22,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,22,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,22,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,22,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,22,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,22,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,22,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,22,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,23,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,23,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,23,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,23,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,23,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,23,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,23,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,23,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,23,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,24,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,24,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,24,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,24,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,24,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,24,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,24,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,24,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,24,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,25,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,25,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,25,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,25,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,25,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,25,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,25,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,25,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,25,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,26,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,26,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,26,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,26,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,26,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,26,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,26,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,26,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,26,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,27,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,27,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,27,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,27,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,27,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,27,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,27,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,27,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,27,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,28,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,28,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,28,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,28,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,28,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,28,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,28,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,28,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,28,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,29,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,29,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,29,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,29,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,29,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,29,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,29,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,29,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,29,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,30,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,30,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,30,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,30,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,30,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,30,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,30,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,30,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,30,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,31,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,31,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,31,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,31,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,31,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,31,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,31,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,31,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,31,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,32,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,32,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,32,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,32,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,32,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,32,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,32,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,32,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,32,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,33,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,33,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,33,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,33,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,33,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,33,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,33,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,33,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,33,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,34,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,34,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,34,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,34,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,34,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,34,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,34,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,34,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,34,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,35,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,35,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,35,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,35,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,35,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,35,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,35,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,35,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,35,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,36,K avec Q vrai,ILVB,7,2,6,2,False,True,False
+Ka et Ks,36,K avec Q vrai,ICL_variationnel,7,2,6,2,False,True,False
+Ka et Ks,36,K avec Q vrai,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,36,Q avec K vrai,ILVB,6,3,6,2,True,False,False
+Ka et Ks,36,Q avec K vrai,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,36,Q avec K vrai,ICL_approx,6,3,6,2,True,False,False
+Ka et Ks,36,Sélection conjointe,ILVB,6,3,6,2,True,False,False
+Ka et Ks,36,Sélection conjointe,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,36,Sélection conjointe,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,37,K avec Q vrai,ILVB,7,2,6,2,False,True,False
+Ka et Ks,37,K avec Q vrai,ICL_variationnel,7,2,6,2,False,True,False
+Ka et Ks,37,K avec Q vrai,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,37,Q avec K vrai,ILVB,6,3,6,2,True,False,False
+Ka et Ks,37,Q avec K vrai,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,37,Q avec K vrai,ICL_approx,6,3,6,2,True,False,False
+Ka et Ks,37,Sélection conjointe,ILVB,6,3,6,2,True,False,False
+Ka et Ks,37,Sélection conjointe,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,37,Sélection conjointe,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,38,K avec Q vrai,ILVB,7,2,6,2,False,True,False
+Ka et Ks,38,K avec Q vrai,ICL_variationnel,7,2,6,2,False,True,False
+Ka et Ks,38,K avec Q vrai,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,38,Q avec K vrai,ILVB,6,3,6,2,True,False,False
+Ka et Ks,38,Q avec K vrai,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,38,Q avec K vrai,ICL_approx,6,3,6,2,True,False,False
+Ka et Ks,38,Sélection conjointe,ILVB,6,3,6,2,True,False,False
+Ka et Ks,38,Sélection conjointe,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,38,Sélection conjointe,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,39,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,39,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,39,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,39,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,39,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,39,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,39,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,39,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,39,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,40,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,40,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,40,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,40,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,40,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,40,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,40,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,40,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,40,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,41,K avec Q vrai,ILVB,7,2,6,2,False,True,False
+Ka et Ks,41,K avec Q vrai,ICL_variationnel,7,2,6,2,False,True,False
+Ka et Ks,41,K avec Q vrai,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,41,Q avec K vrai,ILVB,6,3,6,2,True,False,False
+Ka et Ks,41,Q avec K vrai,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,41,Q avec K vrai,ICL_approx,6,3,6,2,True,False,False
+Ka et Ks,41,Sélection conjointe,ILVB,6,3,6,2,True,False,False
+Ka et Ks,41,Sélection conjointe,ICL_variationnel,6,3,6,2,True,False,False
+Ka et Ks,41,Sélection conjointe,ICL_approx,7,2,6,2,False,True,False
+Ka et Ks,42,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,42,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,42,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,42,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,42,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,42,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,42,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,42,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,42,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,43,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,43,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,43,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,43,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,43,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,43,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,43,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,43,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,43,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,44,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,44,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,44,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,44,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,44,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,44,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,44,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,44,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,44,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,45,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,45,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,45,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,45,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,45,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,45,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,45,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,45,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,45,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,46,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,46,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,46,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,46,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,46,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,46,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,46,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,46,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,46,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,47,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,47,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,47,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,47,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,47,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,47,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,47,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,47,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,47,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,48,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,48,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,48,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,48,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,48,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,48,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,48,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,48,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,48,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,49,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,49,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,49,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,49,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,49,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,49,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,49,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,49,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,49,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,50,K avec Q vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,50,K avec Q vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,50,K avec Q vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,50,Q avec K vrai,ILVB,6,2,6,2,True,True,True
+Ka et Ks,50,Q avec K vrai,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,50,Q avec K vrai,ICL_approx,6,2,6,2,True,True,True
+Ka et Ks,50,Sélection conjointe,ILVB,6,2,6,2,True,True,True
+Ka et Ks,50,Sélection conjointe,ICL_variationnel,6,2,6,2,True,True,True
+Ka et Ks,50,Sélection conjointe,ICL_approx,6,2,6,2,True,True,True

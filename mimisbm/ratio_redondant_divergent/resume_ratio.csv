@@ -1,0 +1,19 @@
+jeu,cas,critere,K_majoritaire,Q_associe,freq_K,ratio_global,ratio_min,ratio_max,taille_min_cluster,p_chi2
+Familles,K fixé,ILVB,10,4,50/50,0.695,0.067,2.262,13,2.3808533348246385e-21
+Familles,K fixé,ICL_variationnel,10,4,50/50,0.695,0.067,2.262,13,2.3808533348246385e-21
+Familles,K fixé,ICL_approx,10,2,50/50,0.695,0.0,2.262,11,2.731063069276263e-20
+Familles,Q fixé,ILVB,10,3,23/50,0.695,0.049,2.262,12,1.8575237840535488e-21
+Familles,Q fixé,ICL_variationnel,10,3,23/50,0.695,0.049,2.262,12,1.8575237840535488e-21
+Familles,Q fixé,ICL_approx,10,3,23/50,0.695,0.049,2.262,12,1.8575237840535488e-21
+Familles,Sélection conjointe,ILVB,10,4,33/50,0.695,0.067,2.262,13,2.3808533348246385e-21
+Familles,Sélection conjointe,ICL_variationnel,10,4,33/50,0.695,0.067,2.262,13,2.3808533348246385e-21
+Familles,Sélection conjointe,ICL_approx,10,2,31/50,0.695,0.0,2.262,11,2.731063069276263e-20
+Ka et Ks,K fixé,ILVB,6,2,50/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,K fixé,ICL_variationnel,6,2,50/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,K fixé,ICL_approx,6,2,50/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Q fixé,ILVB,6,2,28/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Q fixé,ICL_variationnel,6,2,28/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Q fixé,ICL_approx,6,2,28/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Sélection conjointe,ILVB,6,2,50/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Sélection conjointe,ICL_variationnel,6,2,50/50,0.695,0.0,2.032,4,1.5903228936656541e-22
+Ka et Ks,Sélection conjointe,ICL_approx,6,2,30/50,0.695,0.0,2.032,4,1.5903228936656541e-22
